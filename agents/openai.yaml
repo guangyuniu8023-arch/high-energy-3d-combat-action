@@ -1,0 +1,4 @@
+interface:
+  display_name: "超燃3D感打斗动作"
+  short_description: "将文字、参考图与分镜转为超燃、高可读的高速 3D 动作战斗"
+  default_prompt: "使用 $high-energy-3d-combat-action 将我的文字或参考图转换为超燃3D感打斗动作。"
